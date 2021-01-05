@@ -20,6 +20,15 @@ it, simply add the following line to your Podfile:
 pod 'PodXiuCaiAllSDK'
 ```
 
+## Example
+1、手动集成
+     SDKExample1 直接引入framework
+     
+2、CocoaPods 集成
+     SDKExample2 通过pod引入framework
+
+
+
 ## Author
 
 kent, chengyakun11@163.com

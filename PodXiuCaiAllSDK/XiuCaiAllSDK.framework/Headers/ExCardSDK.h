@@ -1,28 +1,3 @@
-//
-//  ExCardSDK.h
-//  ExCardSDK
-//
-//  Created by kubo on 16/9/12.
-//  Copyright © 2016年 kubo. All rights reserved.
-//
-
-#import <UIKit/UIKit.h>
-
-//! Project version number for ExCardSDK.
-FOUNDATION_EXPORT double ExCardSDKVersionNumber;
-
-//! Project version string for ExCardSDK.
-FOUNDATION_EXPORT const unsigned char ExCardSDKVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import "PublicHeader.h>
-
-#import "EXOCRCardEngineManager.h"
-
-#import "EXOCRCustomScanView.h"
-#import "EXOCRIDCardRecoManager.h"
-#import "EXOCRIDCardInfo.h"
-
-#import "EXOCRQuadRecoManager.h"
-#import "EXOCRQuadCardInfo.h"
-#import "EXOCRQuadCardInfoItem.h"
-#import "EXOCRQuadCustomScanView.h"
+version https://git-lfs.github.com/spec/v1
+oid sha256:f39c410f858c03192474337ff36635f184013e64fb874c74a667b1a03a9789b0
+size 739

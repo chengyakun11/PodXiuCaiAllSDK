@@ -1,23 +1,3 @@
-//
-//  OneLoginSDK.h
-//  OneLoginSDK
-//
-//  Created by NikoXu on 2019/3/18.
-//  Copyright © 2019 geetest. All rights reserved.
-//
-
-#import <UIKit/UIKit.h>
-
-//! Project version number for OneLoginSDK.
-FOUNDATION_EXPORT double OneLoginSDKVersionNumber;
-
-//! Project version string for OneLoginSDK.
-FOUNDATION_EXPORT const unsigned char OneLoginSDKVersionString[];
-
-#import "OneLogin.h"
-#import "OLAuthViewModel.h"
-#import "OLNetworkInfo.h"
-#import "OLPrivacyTermItem.h"
-#import "OneLoginPro.h"
-#import "OLErrorInfo.h"
-#import "GTOnePass.h"
+version https://git-lfs.github.com/spec/v1
+oid sha256:92d1e54501ff5ad225f8f7ca37c7b8392e5c1c6f0966a998959170c5867a378e
+size 539

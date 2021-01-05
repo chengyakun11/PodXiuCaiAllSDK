@@ -1,22 +1,3 @@
-//
-//  EXOCRQuadCardInfoItem.h
-//  quadcard
-//
-//  Created by 肖尧 on 17/2/14.
-//  Copyright © 2017年 肖尧. All rights reserved.
-//
-
-#import <Foundation/Foundation.h>
-
-@interface EXOCRQuadCardInfoItem : NSObject
-
-//条目编号
-@property (assign, nonatomic) int ItemID;
-//名称
-@property (strong, nonatomic) NSString *KeyWord;
-//结果
-@property (strong, nonatomic) NSString *OCRText;
-//边框
-@property (strong, nonatomic) NSString *rect;
-
-@end
+version https://git-lfs.github.com/spec/v1
+oid sha256:83798504d87d3c0b4862d27378fa5683b91f12bf5c8158ba31e1227fa08ef9f9
+size 453

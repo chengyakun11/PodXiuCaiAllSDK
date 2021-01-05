@@ -1,21 +1,3 @@
-//
-//  EAccountCTEConfig.h
-//  EAccountApiSDK
-//
-//  Created by lvzhzh on 2019/12/4.
-//  Copyright © 2019 21CN. All rights reserved.
-//
-
-#import <Foundation/Foundation.h>
-
-NS_ASSUME_NONNULL_BEGIN
-
-@interface EAccountCTEConfig : NSObject
-
-@property (nonatomic, copy) NSString *timestampDomain;
-@property (nonatomic, copy) NSString *preLoginDomain;
-@property (nonatomic, copy) NSString *uploadLogDomain;
-
-@end
-
-NS_ASSUME_NONNULL_END
+version https://git-lfs.github.com/spec/v1
+oid sha256:359a49abffef0556aee44844e03c0efa8d9743b6e6931793b0cbc2d8b3d82acd
+size 432

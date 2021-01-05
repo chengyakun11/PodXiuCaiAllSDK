@@ -1,17 +1,3 @@
-//
-//  SVProgressAnimatedView.h
-//  SVProgressHUD, https://github.com/SVProgressHUD/SVProgressHUD
-//
-//  Copyright (c) 2017-2019 Tobias Tiemerding. All rights reserved.
-//
-
-#import <UIKit/UIKit.h>
-
-@interface DWJQSVProgressAnimatedView : UIView
-
-@property (nonatomic, assign) CGFloat radius;
-@property (nonatomic, assign) CGFloat strokeThickness;
-@property (nonatomic, strong) UIColor *strokeColor;
-@property (nonatomic, assign) CGFloat strokeEnd;
-
-@end
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a3cb4860d0231cd83f855f05793419b93cc9da33981c361263d7e306fd1c43c
+size 454

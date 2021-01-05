@@ -1,20 +1,3 @@
-//
-//  UIImage+OpenExtension.h
-//  Open2.0
-//
-//  Created by Young on 16/11/2016.
-//  Copyright © 2016 Young. All rights reserved.
-//
-
-#import <UIKit/UIKit.h>
-
-@interface UIImage(OpenExtension)
-
--(UIImage *)scaleToSize:(CGSize)nSize;
-
-+(NSData*) ImageSizeReducerUnder50K:(UIImage*)originalImage;
-+(UIImage *)imageFromImage:(UIImage *)image inRect:(CGRect)rect;
-+(NSData *)compressFromImage:(UIImage *)originImage;
--(UIImage*)scaleToSizeWithMaxWidthORHeight:(CGFloat)maxWidthOrHeight;
-+(UIImage*)openImageName:(NSString*)imageName;
-@end
+version https://git-lfs.github.com/spec/v1
+oid sha256:6193e00584e858eaa1a726413f45222c54a05741a5827ca8e20dfb3275cde971
+size 537

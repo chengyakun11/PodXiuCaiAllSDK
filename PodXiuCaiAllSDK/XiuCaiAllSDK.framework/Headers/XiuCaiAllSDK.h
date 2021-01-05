@@ -1,18 +1,3 @@
-//
-//  XiuCaiAllSDK.h
-//  XiuCaiAllSDK
-//
-//  Created by kent on 2021/1/4.
-//
-
-#import <Foundation/Foundation.h>
-
-//! Project version number for XiuCaiAllSDK.
-FOUNDATION_EXPORT double XiuCaiAllSDKVersionNumber;
-
-//! Project version string for XiuCaiAllSDK.
-FOUNDATION_EXPORT const unsigned char XiuCaiAllSDKVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <XiuCaiAllSDK/PublicHeader.h>
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:da649702b2055083c1fda6c9d8024483fe4485286e6b0e3e1f1003584a5da381
+size 465
