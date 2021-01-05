@@ -1,0 +1,34 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - PodXiuCaiAllSDK (0.3.0)
+
+DEPENDENCIES:
+  - AFNetworking (= 3.2.1)
+  - PodXiuCaiAllSDK
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - PodXiuCaiAllSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  PodXiuCaiAllSDK: 6aa7213fb2ab83d504878f6fdb1c6d7a8fa63a1b
+
+PODFILE CHECKSUM: befdc588e1358ff1eeaa1446ba8f927cbb3a530c
+
+COCOAPODS: 1.10.0

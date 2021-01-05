@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SDKExample2' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for SDKExample2
+  pod 'PodXiuCaiAllSDK'
+  pod 'AFNetworking', '3.2.1'
+
+  target 'SDKExample2Tests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'SDKExample2UITests' do
+    # Pods for testing
+  end
+
+end

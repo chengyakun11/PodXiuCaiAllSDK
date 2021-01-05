@@ -1,0 +1,6 @@
+framework module XiuCaiAllSDK {
+  umbrella header "XiuCaiAllSDK.h"
+
+  export *
+  module * { export * }
+}

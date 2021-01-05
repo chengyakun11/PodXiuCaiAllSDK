@@ -1,0 +1,6 @@
+framework module Pods_SDKExample2 {
+  umbrella header "Pods-SDKExample2-umbrella.h"
+
+  export *
+  module * { export * }
+}
